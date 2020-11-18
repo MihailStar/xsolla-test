@@ -4,8 +4,8 @@
   font-style: normal;
   font-weight: 400;
   src: local('Avenir Roman'), local('Avenir-Roman'),
-    url('../fonts/avenir-roman.woff2') format('woff2'),
-    url('../fonts/avenir-roman.woff') format('woff');
+    url('./fonts/avenir-roman.woff2') format('woff2'),
+    url('./fonts/avenir-roman.woff') format('woff');
 }
 
 @font-face {
@@ -14,8 +14,8 @@
   font-style: normal;
   font-weight: 500;
   src: local('Avenir Medium'), local('Avenir-Medium'),
-    url('../fonts/avenir-medium.woff2') format('woff2'),
-    url('../fonts/avenir-medium.woff') format('woff');
+    url('./fonts/avenir-medium.woff2') format('woff2'),
+    url('./fonts/avenir-medium.woff') format('woff');
 }
 
 @font-face {
@@ -24,8 +24,8 @@
   font-style: normal;
   font-weight: 900;
   src: local('Avenir Black'), local('Avenir-Black'),
-    url('../fonts/avenir-black.woff2') format('woff2'),
-    url('../fonts/avenir-black.woff') format('woff');
+    url('./fonts/avenir-black.woff2') format('woff2'),
+    url('./fonts/avenir-black.woff') format('woff');
 }
 
 body {
