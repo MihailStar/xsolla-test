@@ -1,0 +1,4 @@
+backstop_data/*
+!backstop_data/bitmaps_reference
+node_modules
+public/build

@@ -1,0 +1,33 @@
+{
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false,
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "id": "xsolla-test",
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "ci_report": "backstop_data/ci_report",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report"
+  },
+  "report": ["browser"],
+  "scenarios": [
+    {
+      "delay": 1000,
+      "label": "index.html",
+      "url": "http://localhost:5000/index.html"
+    }
+  ],
+  "viewports": [
+    {
+      "height": 1080,
+      "label": "1920x1080",
+      "width": 1920
+    }
+  ]
+}

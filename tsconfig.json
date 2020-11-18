@@ -1,0 +1,6 @@
+{
+  "exclude": ["node_modules", "public/build"],
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "include": ["src"],
+  "strict": true
+}

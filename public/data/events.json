@@ -1,0 +1,130 @@
+[
+  {
+    "city": "Amsterdam",
+    "date": "14.09.2019",
+    "genre": "Electronic",
+    "id": "01",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/826adbf1a19ba19e6ba9af9308d2b309.png",
+    "name": "Rave Autumn"
+  },
+  {
+    "city": "Berlin",
+    "date": "20.09.2019",
+    "genre": "Electronic",
+    "id": "02",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/ec3917285ef4db8532c8a9cd9a2112ce.png",
+    "name": "Best of 2019"
+  },
+  {
+    "city": "Rim",
+    "date": "10.11.2019",
+    "genre": "Electronic",
+    "id": "03",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/53486baba5ec9d256ce20816a3e54e51.png",
+    "name": "Faderhead"
+  },
+  {
+    "city": "Berlin",
+    "date": "05.06.2019",
+    "genre": "Electronic",
+    "id": "04",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/e1baa378009391210cc0e64f65c7784e.png",
+    "name": "Purple Fog Side"
+  },
+  {
+    "city": "Sr.Petersburg",
+    "date": "14.02.2019",
+    "genre": "Electronic",
+    "id": "05",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/b1f06edaf618c3e3ad19c159eb5aa036.jpeg",
+    "name": "Carbon based Liveform"
+  },
+  {
+    "city": "Sr.Petersburg",
+    "date": "25.05.2019",
+    "genre": "Electronic",
+    "id": "06",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/49705480ff397085ad34685c4181c1ab.jpeg",
+    "name": "Neuroticfish"
+  },
+  {
+    "city": "Rim",
+    "date": "20.11.2019",
+    "genre": "Electronic",
+    "id": "07",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/de9f4b49cc5ba737911b0db30f082fff.jpeg",
+    "name": "Faderhead"
+  },
+  {
+    "city": "Berlin",
+    "date": "15.02.2019",
+    "genre": "Electronic",
+    "id": "08",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/826adbf1a19ba19e6ba9af9308d2b309.png",
+    "name": "Rave Winter"
+  },
+  {
+    "city": "Rim",
+    "date": "22.06.2019",
+    "genre": "Electronic",
+    "id": "09",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/14bce6211e055410a043e02a22cec69b.jpeg",
+    "name": "Not a Robot"
+  },
+  {
+    "city": "Berlin",
+    "date": "22.09.2019",
+    "genre": "Electronic",
+    "id": "10",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/7d655ea8b13f5fdda4469fb0035bd7a3.jpeg",
+    "name": "Carbon Based lifeforms"
+  },
+  {
+    "city": "Rim",
+    "date": "19.05.2019",
+    "genre": "Electronic",
+    "id": "11",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/8c76c770ded42cea343dbf2d8523791e.jpeg",
+    "name": "Icon of Coil"
+  },
+  {
+    "city": "Sr.Petersburg",
+    "date": "20.06.2019",
+    "genre": "Electronic",
+    "id": "12",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/9ddae28837d2e4217e5c2e99bbd6f3a0.jpeg",
+    "name": "Solar Fields"
+  },
+  {
+    "city": "Amsterdam",
+    "date": "14.11.2019",
+    "genre": "Electronic",
+    "id": "13",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/720e3b29bf238cd40785ffe157b1151a.jpeg",
+    "name": "Apoptygma Berzerk"
+  },
+  {
+    "city": "Rim",
+    "date": "16.11.2019",
+    "genre": "Electronic",
+    "id": "14",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/76372b51ab7408e826a191577abcd79d.jpeg",
+    "name": "Mental Discipline"
+  },
+  {
+    "city": "Berlin",
+    "date": "25.02.2019",
+    "genre": "Electronic",
+    "id": "15",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/aec8583caa5bbe34b2c5695e2546ea3b.jpeg",
+    "name": "Apoptygma Berzerk"
+  },
+  {
+    "city": "Amsterdam",
+    "date": "14.02.2019",
+    "genre": "Electronic",
+    "id": "16",
+    "image": "https://cdn3.xsolla.com/files/uploaded/113250/0662c0df7663f71831e83be091228413.jpeg",
+    "name": "Solar Fields"
+  }
+]
